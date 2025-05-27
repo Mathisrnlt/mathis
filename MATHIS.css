@@ -105,8 +105,9 @@ button {
 .vho:hover {
     background-color: white;
 }
-form {
+.container, form {
     width: 90%;
     max-width: 400px;
     margin: 0 auto;
+    box-sizing: border-box;
 }
