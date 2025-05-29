@@ -1,0 +1,152 @@
+
+body { 
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #000000, #43454b);
+}
+input {
+    padding: 12px;
+    font-size: 18px;
+    background-color: #2a2d31;
+    caret-color: white;
+    border: 1px solid ;
+    outline: none;
+    transition: border-color 0.4s ease;
+    font-family: Century Gothic;
+    
+}
+
+input:focus {
+    border-color: orange;
+    
+}
+
+::placeholder {
+    color: rgb(158, 165, 159);
+    font-family: Century Gothic;
+}
+
+.log {
+    margin-left: 1223px;
+    margin-top: 16%;
+    border: 1px solid;
+    border-radius: 12px;
+    
+}
+
+
+.par {
+    margin-left: 64%;
+    margin-top: 10px;
+    border: 1px solid;
+    border-radius: 12px;
+    
+}
+
+
+.zab {
+    margin-left: 1228px;
+    text-decoration: none;
+    color: rgb(202, 179, 179);
+    font-family: Garamond;
+    font-size: 20px;
+} 
+.register {
+    margin-left: 1500px;   
+    text-decoration: none;
+    color: rgb(202, 179, 179);
+    font-family: Garamond;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 1px;
+}
+
+a:hover {
+    color: rgba(231, 226, 226, 0.9);
+    
+}
+
+.mathis {
+    margin-left: 70%;
+    position: absolute;
+    margin-top: 10%;
+    color: white;
+    font-weight: 600;
+    font-size: 22px;
+    font-family: Century Gothic;
+    
+    
+    
+    
+}
+
+img {
+    position: absolute;
+    margin-left: 1400px;
+    margin-top: 7%;
+    width: 45px;
+    height: auto;
+}
+
+.soc {
+    color: white;
+    font-family: Century Gothic;
+    font-size: 23px;
+    font-weight: 600;
+    margin-top: 10%;
+    position: absolute;
+    margin-left: 16%;
+}
+
+.vi {
+    color: rgb(129, 122, 122);
+    font-family: Century Gothic;
+    font-size: 17px;
+    font-weight: 500;
+    margin-top: 225px;
+    position: absolute;
+    margin-left: 16%;
+}
+
+.voy {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1218px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: #DAA520;
+    font-weight: 700;
+    font-size: 15px;
+    color: white;
+    border-color: #DAA520;
+    transition: background-color 0.5s ease;
+    
+
+}
+.voy:hover {
+    background-color: #daa520a4;
+}
+button {
+    width: 400px;
+    padding: 12px;
+    display: inline-block;
+    border: 2px solid;
+    cursor: pointer;
+    background-color: #daa5209c;
+    
+}
+
+
+
+
+.vhod {
+    margin-left: 72%;
+    position: absolute;
+    margin-top: 13%;
+    color: white;
+    font-weight: 500;
+    font-size: 26px;
+    font-family: Century Gothic;
+    
+}
+
+
